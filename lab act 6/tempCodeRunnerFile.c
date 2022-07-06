@@ -1,0 +1,1 @@
+This program accepts a positive integer. The program should output the value of the summation.
